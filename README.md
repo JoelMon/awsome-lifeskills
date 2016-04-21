@@ -3,20 +3,33 @@ A curated list of life skills tutorials for various things. Inspired by awesome.
 
 ## Table of Content
 - [Sewing](#sewing)
-  - [videos](#videos)
-  - [written tutorials](#written-tutorials)
+  - [Videos](#videos)
+    - [Sewing Basics](#sewing-basics)
+    - [Sewing a Button](#sewing-a-button)
+    - [Mending a Tear](#mending-a-tear)
+  - [Written Tutorials](#written-tutorials)
 - [Ironing](#clothes-ironing)
   - [Videos](#videos)
-  - [Written tutorials](#written-tutorials)
+  - [Written Tutorials](#written-tutorials)
 
 ## Sewing
 Tutorials on how to hand sew.
 
 ### Videos
+
+#### Sewing Basics
 - [Hand Sewing Basics](https://www.youtube.com/watch?v=B2mfJweh8a0)
+- [How to Tie a Knot in Thread](https://www.youtube.com/watch?v=PowkA9Bojlo)
+
+#### Sewing a Button
 - [How To Hand Sew A Button](https://youtu.be/rQRq--7InTE?t=69)
 
-### Written tutorials
+#### Mending a Tear
+- [Mending A Tear in Jeans](https://youtu.be/-ynBWa5ej1Q?t=16)
+- [How to Repair a Hole in a T-Shirt](https://www.youtube.com/watch?v=vvDdzD5pF3M)
+
+
+### Written Tutorials
 
 ## Ironing
 Various tutorials on how to iron clothes.
@@ -25,7 +38,7 @@ Various tutorials on how to iron clothes.
 - [T.M.Lewin | How To Iron A Shirt](https://www.youtube.com/watch?v=yK6iQj-I_0w)
 - [T.M.Lewin | How to Press Trousers](https://www.youtube.com/watch?v=Lhuhb2KNqVM)
 
-### Written tutorials
+### Written Tutorials
 - [WikiHow - How to Iron](http://www.wikihow.com/Iron)
 
 

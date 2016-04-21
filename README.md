@@ -3,6 +3,8 @@ A curated list of life skills tutorials for various things. Inspired by awesome.
 
 ## Table of Content
 - [Clothes Ironing](#clothes-ironing)
+  - [Videos](#videos)
+  - [Written tutorials](#written-tutorials)
 
 ## Clothes Ironing
 Various tutorials on how to iron clothes.

@@ -2,14 +2,14 @@
 A curated list of life skills tutorials for various things. Inspired by awesome.
 
 ## Table of Content
-- [Sewings](#sewing)
+- [Sewing](#sewing)
   - [videos](#videos)
   - [written tutorials](#written-tutorials)
 - [Ironing](#clothes-ironing)
   - [Videos](#videos)
   - [Written tutorials](#written-tutorials)
 
-## Sewings
+## Sewing
 Tutorials on how to hand sew.
 
 ### Videos

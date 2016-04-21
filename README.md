@@ -2,6 +2,10 @@
 A curated list of life skills tutorials for various things. Inspired by awesome.
 
 ## Table of Content
+- [Cooking](#cooking)
+- [Home Orginazing](#home-orginazing)
+- [Painting](#painting)
+- [Plumbing](#plumbing)
 - [Sewing](#sewing)
   - [Videos](#videos)
     - [Sewing Basics](#sewing-basics)
@@ -12,6 +16,10 @@ A curated list of life skills tutorials for various things. Inspired by awesome.
   - [Videos](#videos)
   - [Written Tutorials](#written-tutorials)
 
+## Cooking
+## Home Orginazing
+## Painting
+## Plumbing
 ## Sewing
 Tutorials on how to hand sew.
 

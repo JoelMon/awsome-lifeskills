@@ -5,7 +5,7 @@ A curated list of life skills tutorials for various things. Inspired by awesome.
 - [Clothes Ironing](#clothes-ironing)
 
 ## Clothes Ironing
-Various tutorials on how to ironing clothes.
+Various tutorials on how to iron clothes.
 
 ### Videos
 - [T.M.Lewin | How To Iron A Shirt](https://www.youtube.com/watch?v=yK6iQj-I_0w)

@@ -20,6 +20,7 @@ Tutorials on how to hand sew.
 #### Sewing Basics
 - [Hand Sewing Basics](https://www.youtube.com/watch?v=B2mfJweh8a0)
 - [How to Tie a Knot in Thread](https://www.youtube.com/watch?v=PowkA9Bojlo)
+- [How to Hand Sew an Invisible Stitch](https://www.youtube.com/watch?v=WbE5hXt27uU)
 
 #### Sewing a Button
 - [How To Hand Sew A Button](https://youtu.be/rQRq--7InTE?t=69)

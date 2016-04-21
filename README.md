@@ -2,11 +2,22 @@
 A curated list of life skills tutorials for various things. Inspired by awesome.
 
 ## Table of Content
-- [Clothes Ironing](#clothes-ironing)
+- [Sewings](#sewing)
+  - [videos](#videos)
+  - [written tutorials](#written-tutorials)
+- [Ironing](#clothes-ironing)
   - [Videos](#videos)
   - [Written tutorials](#written-tutorials)
 
-## Clothes Ironing
+## Sewings
+Tutorials on how to hand sew.
+
+### Videos
+- [Hand Sewing Basics](https://www.youtube.com/watch?v=B2mfJweh8a0)
+
+### Written tutorials
+
+## Ironing
 Various tutorials on how to iron clothes.
 
 ### Videos
@@ -15,4 +26,6 @@ Various tutorials on how to iron clothes.
 
 ### Written tutorials
 - [WikiHow - How to Iron](http://www.wikihow.com/Iron)
+
+
 

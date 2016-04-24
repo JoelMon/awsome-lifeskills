@@ -23,20 +23,14 @@ A curated list of life skills tutorials for various things. Inspired by awesome.
 Tutorials on how to hand sew.
 
 ### Sewing Basics
-<<<<<<< HEAD
 - [Hand Sewing Basics](https://www.youtube.com/watch?v=B2mfJweh8a0)[v]
 - [How to Tie a Knot in Thread](https://www.youtube.com/watch?v=PowkA9Bojlo)[v]
-=======
-- [Hand Sewing Basics](https://www.youtube.com/watch?v=B2mfJweh8a0)[V]
-- [How to Tie a Knot in Thread](https://www.youtube.com/watch?v=PowkA9Bojlo)[V]
->>>>>>> c7988dbdc26b044f10ab8dd272070e2818ef75aa
 
 ### Sewing a Button
 - [How To Hand Sew A Button](https://youtu.be/rQRq--7InTE?t=69)
 
 ### Stitches
 List of varying useful hand stitches.
-<<<<<<< HEAD
 - [Four hand stitches you need to know](http://byhandlondon.com/blogs/by-hand-london/11628717-four-hand-stitches-you-need-to-know)[w]
 - [Basting stitch (or tacking)](https://youtu.be/KCT-pC8X5m8)[v] - for reinforcement or for temporarily holding fabric in place. Well suited when fitting.
 - Blanket stitch - used to finish an unhemmed blanket
@@ -44,15 +38,6 @@ List of varying useful hand stitches.
 - Darning stitch - for repairing holes or worn areas in fabric or knitting
 - [Hemming Stitch](https://www.youtube.com/watch?v=RrJjXcoeNUI)[v] - basic stich when hemming pants.
 - [Invisible Stitch](https://www.youtube.com/watch?v=WbE5hXt27uU)[v]
-=======
-- [Four hand stitches you need to know](http://byhandlondon.com/blogs/by-hand-london/11628717-four-hand-stitches-you-need-to-know)[W]
-- [Basting stitch (or tacking)](https://youtu.be/KCT-pC8X5m8)[V] - for reinforcement or for temporarily holding fabric in place. Well suited when fitting.
-- Blanket stitch - used to finish an unhemmed blanket
-- Blind stitch (or hemstitch) - a type of slip stitch used for inconspicuous hems
-- Darning stitch - for repairing holes or worn areas in fabric or knitting
-- [Hemming Stitch](https://www.youtube.com/watch?v=RrJjXcoeNUI)[V] - basic stich when hemming pants.
-- [Invisible Stitch](https://www.youtube.com/watch?v=WbE5hXt27uU)[V]
->>>>>>> c7988dbdc26b044f10ab8dd272070e2818ef75aa
 - Tent stitch - diagonal embroidery stitch at a 45-degree angle
 - Pad stitch - secures two or more layers of fabric together and provide firmness
 - Rantering
@@ -76,12 +61,7 @@ Various tutorials on how to iron clothes.
 ### Written Tutorials
 - [WikiHow - How to Iron](http://www.wikihow.com/Iron)
 
+[v] = Video
 
-<<<<<<< HEAD
 [w] = Website
 
-[v] = Video
-=======
-[W] = Website
-[V] = Video
->>>>>>> c7988dbdc26b044f10ab8dd272070e2818ef75aa

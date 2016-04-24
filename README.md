@@ -7,13 +7,13 @@ A curated list of life skills tutorials for various things. Inspired by awesome.
 - [Painting](#painting)
 - [Plumbing](#plumbing)
 - [Sewing](#sewing)
-  - [Videos](#videos)
-    - [Sewing Basics](#sewing-basics)
-    - [Sewing a Button](#sewing-a-button)
-    - [Mending a Tear](#mending-a-tear)
+	- [Sewing Basics](#sewing-basics)
+	- [Sewing a Button](#sewing-a-button)
+	- [Stitches](#stitches)
+	- [Mending a Tear](#mending-a-tear)
 - [Ironing](#clothes-ironing)
-  - [Videos](#videos)
-  - [Written Tutorials](#written-tutorials)
+	- [Videos](#videos)
+	- [Written Tutorials](#written-tutorials)
 
 ## Cooking
 ## Home Orginazing
@@ -39,7 +39,7 @@ List of varying hand stitches.
 - Blind stitch (or hemstitch) - a type of slip stitch used for inconspicuous hems
 - Darning stitch - for repairing holes or worn areas in fabric or knitting
 - [Hemming Stitch](https://www.youtube.com/watch?v=RrJjXcoeNUI)[V] - basic stich when hemming pants.
-- [Invisible Stitch](https://www.youtube.com/watch?v=WbE5hXt27uU)
+- [Invisible Stitch](https://www.youtube.com/watch?v=WbE5hXt27uU)[V]
 - Tent stitch - diagonal embroidery stitch at a 45-degree angle
 - Pad stitch - secures two or more layers of fabric together and provide firmness
 - Rantering

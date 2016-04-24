@@ -11,6 +11,7 @@ A curated list of life skills tutorials for various things. Inspired by awesome.
 	- [Sewing a Button](#sewing-a-button)
 	- [Stitches](#stitches)
 	- [Mending a Tear](#mending-a-tear)
+- [Shoe Polishing](#shoe-polishing)
 - [Ironing](#clothes-ironing)
 	- [Videos](#videos)
 	- [Written Tutorials](#written-tutorials)
@@ -50,6 +51,8 @@ List of varying useful hand stitches.
 ### Mending a Tear
 - [Mending A Tear in Jeans](https://youtu.be/-ynBWa5ej1Q?t=16)
 - [How to Repair a Hole in a T-Shirt](https://www.youtube.com/watch?v=vvDdzD5pF3M)
+
+## Shoe Polishing
 
 ## Ironing
 Various tutorials on how to iron clothes.

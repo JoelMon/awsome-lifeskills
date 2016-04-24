@@ -37,9 +37,6 @@ Tutorials on how to hand sew.
 - [Mending A Tear in Jeans](https://youtu.be/-ynBWa5ej1Q?t=16)
 - [How to Repair a Hole in a T-Shirt](https://www.youtube.com/watch?v=vvDdzD5pF3M)
 
-
-### Written Tutorials
-
 ## Ironing
 Various tutorials on how to iron clothes.
 

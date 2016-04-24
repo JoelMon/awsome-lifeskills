@@ -65,8 +65,3 @@ Various tutorials on how to iron clothes.
 
 [w] = Website
 
-[v] = Video
-=======
-[W] = Website
-[V] = Video
->>>>>>> c7988dbdc26b044f10ab8dd272070e2818ef75aa

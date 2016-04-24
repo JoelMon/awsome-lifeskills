@@ -22,17 +22,15 @@ A curated list of life skills tutorials for various things. Inspired by awesome.
 ## Sewing
 Tutorials on how to hand sew.
 
-### Videos
+### Sewing Basics
+- [Hand Sewing Basics](https://www.youtube.com/watch?v=B2mfJweh8a0)[V]
+- [How to Tie a Knot in Thread](https://www.youtube.com/watch?v=PowkA9Bojlo)[V]
 
-#### Sewing Basics
-- [Hand Sewing Basics](https://www.youtube.com/watch?v=B2mfJweh8a0)
-- [How to Tie a Knot in Thread](https://www.youtube.com/watch?v=PowkA9Bojlo)
-
-#### Sewing a Button
+### Sewing a Button
 - [How To Hand Sew A Button](https://youtu.be/rQRq--7InTE?t=69)
 
-#### Stitches
-List of varying hand stitches.
+### Stitches
+List of varying useful hand stitches.
 - [Four hand stitches you need to know](http://byhandlondon.com/blogs/by-hand-london/11628717-four-hand-stitches-you-need-to-know)[W]
 - [Basting stitch (or tacking)](https://youtu.be/KCT-pC8X5m8)[V] - for reinforcement or for temporarily holding fabric in place. Well suited when fitting.
 - Blanket stitch - used to finish an unhemmed blanket
@@ -49,8 +47,7 @@ List of varying hand stitches.
 - Topstitch - used on garment edges such as necklines and hems, helps facings stay in place and gives a crisp edge
 - Whipstitch - for protecting edges
 
-
-#### Mending a Tear
+### Mending a Tear
 - [Mending A Tear in Jeans](https://youtu.be/-ynBWa5ej1Q?t=16)
 - [How to Repair a Hole in a T-Shirt](https://www.youtube.com/watch?v=vvDdzD5pF3M)
 

@@ -27,15 +27,32 @@ Tutorials on how to hand sew.
 #### Sewing Basics
 - [Hand Sewing Basics](https://www.youtube.com/watch?v=B2mfJweh8a0)
 - [How to Tie a Knot in Thread](https://www.youtube.com/watch?v=PowkA9Bojlo)
-- [How to Hand Sew an Invisible Stitch](https://www.youtube.com/watch?v=WbE5hXt27uU)
 
 #### Sewing a Button
 - [How To Hand Sew A Button](https://youtu.be/rQRq--7InTE?t=69)
 
+#### Stitches
+List of varying hand stitches.
+- [Four hand stitches you need to know](http://byhandlondon.com/blogs/by-hand-london/11628717-four-hand-stitches-you-need-to-know)[W]
+- [Basting stitch (or tacking)](https://youtu.be/KCT-pC8X5m8)[V] - for reinforcement or for temporarily holding fabric in place. Well suited when fitting.
+- Blanket stitch - used to finish an unhemmed blanket
+- Blind stitch (or hemstitch) - a type of slip stitch used for inconspicuous hems
+- Darning stitch - for repairing holes or worn areas in fabric or knitting
+- [Hemming Stitch](https://www.youtube.com/watch?v=RrJjXcoeNUI)[V] - basic stich when hemming pants.
+- [Invisible Stitch](https://www.youtube.com/watch?v=WbE5hXt27uU)
+- Tent stitch - diagonal embroidery stitch at a 45-degree angle
+- Pad stitch - secures two or more layers of fabric together and provide firmness
+- Rantering
+- Running stitch - a hand stitch for seams and gathering
+- Slip stitch - a hand stitch for fastening two pieces of fabric together from the right side without the thread showing
+- Stoating
+- Topstitch - used on garment edges such as necklines and hems, helps facings stay in place and gives a crisp edge
+- Whipstitch - for protecting edges
+
+
 #### Mending a Tear
 - [Mending A Tear in Jeans](https://youtu.be/-ynBWa5ej1Q?t=16)
 - [How to Repair a Hole in a T-Shirt](https://www.youtube.com/watch?v=vvDdzD5pF3M)
-
 
 ## Ironing
 Various tutorials on how to iron clothes.
@@ -48,4 +65,5 @@ Various tutorials on how to iron clothes.
 - [WikiHow - How to Iron](http://www.wikihow.com/Iron)
 
 
-
+[W] = Website
+[V] = Video

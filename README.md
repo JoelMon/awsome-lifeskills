@@ -1,9 +1,10 @@
 # Awsome Life Skills [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A curated list of life skills tutorials for various things. Inspired by awesome.
 
+<!-- TOC -->
 ## Table of Content
 - [Cooking](#cooking)
-- [Home Orginazing](#home-orginazing)
+- [Home Organizing](#home-organizing)
 - [Painting](#painting)
 - [Plumbing](#plumbing)
 - [Sewing](#sewing)
@@ -12,12 +13,11 @@ A curated list of life skills tutorials for various things. Inspired by awesome.
 	- [Stitches](#stitches)
 	- [Mending a Tear](#mending-a-tear)
 - [Shoe Polishing](#shoe-polishing)
-- [Ironing](#clothes-ironing)
-	- [Videos](#videos)
-	- [Written Tutorials](#written-tutorials)
+- [Ironing](#ironing)
+<!-- END -->
 
 ## Cooking
-## Home Orginazing
+## Home Organizing
 ## Painting
 ## Plumbing
 ## Sewing
@@ -57,12 +57,9 @@ List of varying useful hand stitches.
 ## Ironing
 Various tutorials on how to iron clothes.
 
-### Videos
-- [T.M.Lewin | How To Iron A Shirt](https://www.youtube.com/watch?v=yK6iQj-I_0w)
-- [T.M.Lewin | How to Press Trousers](https://www.youtube.com/watch?v=Lhuhb2KNqVM)
-
-### Written Tutorials
-- [WikiHow - How to Iron](http://www.wikihow.com/Iron)
+- [T.M.Lewin | How To Iron A Shirt](https://www.youtube.com/watch?v=yK6iQj-I_0w)[V]
+- [T.M.Lewin | How to Press Trousers](https://www.youtube.com/watch?v=Lhuhb2KNqVM)[V]
+- [WikiHow - How to Iron](http://www.wikihow.com/Iron)[W]
 
 [v] = Video
 

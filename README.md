@@ -58,9 +58,9 @@ List of varying useful hand stitches.
 ## Ironing
 Various tutorials on how to iron clothes.
 
-- [T.M.Lewin | How To Iron A Shirt](https://www.youtube.com/watch?v=yK6iQj-I_0w)[V]
-- [T.M.Lewin | How to Press Trousers](https://www.youtube.com/watch?v=Lhuhb2KNqVM)[V]
-- [WikiHow - How to Iron](http://www.wikihow.com/Iron)[W]
+- [T.M.Lewin | How To Iron A Shirt](https://www.youtube.com/watch?v=yK6iQj-I_0w)[v]
+- [T.M.Lewin | How to Press Trousers](https://www.youtube.com/watch?v=Lhuhb2KNqVM)[v]
+- [WikiHow - How to Iron](http://www.wikihow.com/Iron)[w]
 
 [v] = Video
 

@@ -14,6 +14,7 @@ A curated list of life skills tutorials for various things. Inspired by awesome.
 	- [Mending a Tear](#mending-a-tear)
 - [Shoe Polishing](#shoe-polishing)
 - [Ironing](#ironing)
+
 <!-- END -->
 
 ## Cooking

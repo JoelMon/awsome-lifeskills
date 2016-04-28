@@ -3,14 +3,22 @@ A curated list of life skills tutorials for various things. Inspired by awesome.
 
 <!-- TOC -->
 ## Table of Content
+- [Ironing](#ironing)
 - [Sewing](#sewing)
 	- [Sewing Basics](#sewing-basics)
 	- [Sewing a Button](#sewing-a-button)
 	- [Stitches](#stitches)
 	- [Mending a Tear](#mending-a-tear)
-- [Ironing](#ironing)
+- [Shoe Polishing](#shoe-polishing)
 
 <!-- END -->
+
+## Ironing
+Various tutorials on how to iron clothes.
+
+- [T.M.Lewin | How To Iron A Shirt](https://www.youtube.com/watch?v=yK6iQj-I_0w)[v 4:14]
+- [T.M.Lewin | How to Press Trousers](https://www.youtube.com/watch?v=Lhuhb2KNqVM)[v 5:08]
+- [WikiHow - How to Iron](http://www.wikihow.com/Iron)[w]
 
 ## Sewing
 Tutorials on how to hand sew.
@@ -45,12 +53,13 @@ List of varying useful hand stitches.
 - [Mending A Tear in Jeans](https://youtu.be/-ynBWa5ej1Q?t=16)[v 4:54]
 - [How to Repair a Hole in a T-Shirt](https://www.youtube.com/watch?v=vvDdzD5pF3M)[v 5:25]
 
-## Ironing
-Various tutorials on how to iron clothes.
-
-- [T.M.Lewin | How To Iron A Shirt](https://www.youtube.com/watch?v=yK6iQj-I_0w)[v 4:14]
-- [T.M.Lewin | How to Press Trousers](https://www.youtube.com/watch?v=Lhuhb2KNqVM)[v 5:08]
-- [WikiHow - How to Iron](http://www.wikihow.com/Iron)[w]
+## Shoe Polishing
+- [Why Gentlemen Should Polish Their Own Shoes](https://www.youtube.com/watch?v=WpVxJoUeDmE)[v 4:03] - Answers why shoes should be polished and talks about the basics of polishing. Great first introduction to the topic.
+- [How to Shine Your Shoes | The Art of Manliness](https://www.youtube.com/watch?v=od1jHUzgrAU&feature=youtu.be&t=33)[v 2:49] - A basic and quick tutorial to 
+quickly polish your shoe but not enough instructions for a high gloss, military, polish.
+- [How To Shine Dress Shoes - Jose & Markham](https://www.youtube.com/watch?v=ElRtz8Qz_s8)[v 2:50] - Polishing luxury shoes. Very thorough and discusses shoes
+ of various colors.
+- [How To Polish Cordovan Shoes](https://www.youtube.com/watch?v=EQ1k8mJt3iI&feature=youtu.be&t=10)[v 9:55] - Professinal shoeshiner polishes a pair of cordovan shoes and discusses the process. Not a tutorial but very informative. Also shoes how to use a deer bone to repair skuffs.
 
 [v **time**] = Video
 

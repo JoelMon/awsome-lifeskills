@@ -6,6 +6,7 @@ A curated list of life skills tutorials for various things. Inspired by awesome.
 - [Sewing](#sewing)
 	- [Sewing Basics](#sewing-basics)
 	- [Sewing a Button](#sewing-a-button)
+	- [Shoe Polishing](#shoe-polishing)
 	- [Stitches](#stitches)
 	- [Mending a Tear](#mending-a-tear)
 - [Ironing](#ironing)
@@ -22,6 +23,14 @@ Tutorials on how to hand sew.
 
 ### Sewing a Button
 - [How To Hand Sew A Button](https://youtu.be/rQRq--7InTE?t=69)[v 6:59]
+
+### Shoe Polishing
+- [How to Shine Your Shoes | The Art of Manliness](https://www.youtube.com/watch?v=od1jHUzgrAU&feature=youtu.be&t=33)[v 2:49] - A basic and quick tutorial to 
+quickly polish your shoe but not enough instructions for a high gloss, military, polish.
+- [How To Shine Dress Shoes - Jose & Markham](https://www.youtube.com/watch?v=ElRtz8Qz_s8)[v 2:50] - Polishing luxury shoes. Very thorough and discusses shoes
+ of various colors.
+- [How To Polish Cordovan Shoes](https://www.youtube.com/watch?v=EQ1k8mJt3iI&feature=youtu.be&t=10)[v 9:55] - Professinal shoeshiner polishes a pair of cordovan shoes and discusses the process. Not a tutorial but very informative. Also shoes how to use a deer bone to repair skuffs.
+- [Why Gentlemen Should Polish Their Own Shoes](https://www.youtube.com/watch?v=WpVxJoUeDmE)[v 4:03] - Answers why shoes should be polished and talks about the basics of polishing. Great first introduction to the topic.
 
 ### Stitches
 List of varying useful hand stitches.

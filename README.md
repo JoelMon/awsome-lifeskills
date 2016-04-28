@@ -6,9 +6,9 @@ A curated list of life skills tutorials for various things. Inspired by awesome.
 - [Sewing](#sewing)
 	- [Sewing Basics](#sewing-basics)
 	- [Sewing a Button](#sewing-a-button)
-	- [Shoe Polishing](#shoe-polishing)
 	- [Stitches](#stitches)
 	- [Mending a Tear](#mending-a-tear)
+- [Shoe Polishing](#shoe-polishing)
 - [Ironing](#ironing)
 
 <!-- END -->

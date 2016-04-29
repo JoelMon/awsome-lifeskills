@@ -3,6 +3,8 @@ A curated list of life skills tutorials for various things. Inspired by awesome.
 
 <!-- TOC -->
 ## Table of Content
+- [Cooking](#cooking)
+	- [Coffee](#coffee)
 - [Ironing](#ironing)
 - [Sewing](#sewing)
 	- [Sewing Basics](#sewing-basics)
@@ -12,6 +14,12 @@ A curated list of life skills tutorials for various things. Inspired by awesome.
 - [Shoe Polishing](#shoe-polishing)
 
 <!-- END -->
+
+## Cooking
+### Coffee
+- [Making Cuban Coffee in Miami](https://www.youtube.com/watch?v=Yv9PMshuT_4)[v 1:30] - A quick look at how to make Cuban coffee with crema.
+- [How to Make Cuban Coffee](https://www.youtube.com/watch?v=StDFjab62Vs)[v 9:50] - A more detailed tutorial on making Cuban coffee with crema.
+- [Coffee Tips - French Press](https://www.youtube.com/watch?v=AE8LqqEliwc)[v 4:48] - A tutorial on brewing on a French press.
 
 ## Ironing
 Various tutorials on how to iron clothes.
